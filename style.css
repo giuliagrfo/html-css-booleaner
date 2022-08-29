@@ -1,6 +1,4 @@
-body {
- width: 100%;
-}
+
 
 .logo {
     height: 150px;
@@ -36,25 +34,23 @@ a {
 .row1, .row3{
     background-color: #cbecfb;
     color: black;
+    
 }
 
 .left{
     margin-right: 80px;
     width: 25%;
-
 }
 
 .center{
     margin-right: 80px;
     width: 25%;
-
 }
 
 .right{
     display: inline-block;
     text-align: left;
     width: 50%;
-
 }
 
 h4{
