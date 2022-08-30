@@ -1,5 +1,4 @@
 
-
 .logo {
     height: 150px;
     background-image: url("img/pattern.png");
@@ -12,7 +11,7 @@
     padding-left: 5px;
 }
 
-.edit{
+.edit {
     color: #7c7e80;
     margin-bottom: 20px;
 }
@@ -26,52 +25,52 @@ a {
     background-color: yellow;
 }
 
-.row.head{
+.row.head {
     background-color: #5db7dd;
     color: white;
 }
 
-.row1, .row3{
+.row1, .row3 {
     background-color: #cbecfb;
     color: black;
     
 }
 
-.left{
+.left {
     margin-right: 80px;
     width: 25%;
 }
 
-.center{
+.center {
     margin-right: 80px;
     width: 25%;
 }
 
-.right{
+.right {
     display: inline-block;
     text-align: left;
     width: 50%;
 }
 
-h4{
+h4 {
     color: #7c7e80;
 }
 
-.monitor{
+.monitor {
     color: white;
     height: 200px;
     background-image: url("./img/monitor.jpg");
     background-repeat: no-repeat;
 }
 
-.graph{
+.graph {
     color: white;
     height: 200px;
     background-image: url("./img/graph.jpg");
     background-repeat: no-repeat;
 }
 
-h3{
+h3 {
     padding-top: 10px;
     padding-left: 10px;
 }
